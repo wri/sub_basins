@@ -1,4 +1,4 @@
-# wri_hydrobasins
+# WRI version of HydroBASINS
 Create hydrological sub-basins for water risk calculation using various levels of HydroBASINS.
 
 ## Rationale 
